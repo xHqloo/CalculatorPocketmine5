@@ -1,5 +1,5 @@
-name: Calculator
+name: CalculatorP
+main: xHqlo\Base
 author: xHqlo
 version: 1.0.0
-main: xHqlo\Main
 api: 5.0.0
